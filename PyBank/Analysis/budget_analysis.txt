@@ -1,0 +1,7 @@
+total of months 86
+total net 38382578
+average -2315.12
+greatest increase 1926159
+greatest decrease -2196167
+greatest decrease month Sep-2013
+greatest increase month Feb-2012
